@@ -11,10 +11,6 @@
 - Analyse how your text sounds like.
 - Mobile friendly
 
-## 📖 Guide
-
-[*Read how we build this application*](https://rapidapi.com/guides/build-text-sentiment-analysis-app)
-
 ### 🛠️ Installation Steps
 
 1. Download the `text-sentiment-analysis-app` directory. Click [here](https://download-directory.github.io/?url=https://github.com/RapidAPI/DevRel-Examples-External/tree/main/text-sentiment-analysis-app) to download it.
